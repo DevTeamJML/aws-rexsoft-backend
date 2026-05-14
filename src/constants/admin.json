@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rexsoft-crm",
+  "private_key_id": "022bda27de04c02c0c498a29cb86338795b234d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCptfRRW0VGSJ7y\nDeWaE2NSAoSXhSF9Mez7vhd0Djxq0ynNQo3NlXVzcs1xz9TPdA0towyWAzoJ38RE\n5vgM3u44oPt2JTd7P8NHSvke4GBMdaHxY0me8DMwSwoK6tFFkQQi2v80qVs037lH\n8YCXLaCrVR95/SJ2qKGBe9LIKGKceyl+ckg9mvb4rT6vgHfpGL2FQsrYruwBHnDW\nPahU0v9nTbc2ICGBUZZfPmFR2ljsK8qBunHXiQ3xO2gIu5TsrU8omZN3KMNkey7+\nMXjmP0hWcoYZy7hMJHG4FzCsOgQXINSl6CkdCdNHn+gpZcSLku6imLqWRQcQLrS4\nzr8dgZCBAgMBAAECggEAHAwdL6Dk5wOzeQ+A5aDUpkYSQbRX34fzwXseBykfJQx2\n+RxJsTNFMOpFN80AP7TPRL6Qou4vllgr6LM/RWlGd4drZ5ApBi54iHzEhSzR3XEH\nbYxaK3FJFG8iXsGGCng39ca5rKtcjnV2+oPYG6QHzKkJxbBnFLMz1eFv6XJ7MZ8I\nSBuBqR0zUm3SyTUK7wdigIdvdSGpnpqT3KXTiEpM9/z8PK8XEsBe0nsuZsQqTaAP\nR+JclgLMFFPh8LQNzhgmlIBAQdqhKBD0c1eyWm2N78QpHCrto8i7NltDvoeE5hte\ne4q9WCg9i7VXSqx/rlBntTNfKjYUhxyG2QAEPM8q0QKBgQDU9ZVvyB8/IC3VUlNl\nBOfYzig/h8GUMFva3LxbwK/DFvu+8bI+yxffbxC0h+oEdH+6WlEAVd3MTwKulj49\nWo5Kn6vuXusWzO9b/P029P5wCbANetG8TC7TOGoSVvkFR248SpmxRsuGGP/o2s7Z\nMP1BVl3QwL7oPMGnksVn8SlL5QKBgQDMArXmLTtS4c6KE0VSI6VPpVrJavKGcVZk\nvF3RRIMq3Rix3SgMICagfNXYzM8YpmpPc72TcFW3UEzzS0EVDlQim6DVhadrt/7f\nE1pdpAN0N9DkWHI5e8dpPry9Sf868yUk69Wk78GbEEFuIpuvdwpLtvG0WyGyo9iA\nPiX1OvdAbQKBgQCah+p8RreF0w/vL+Ib98dVZ6OFFjm+EqlU08BKxDPGWTMsh65U\nKoOUOr/ggI+r0+2riEYm/CgKTXsgvR1E4CVIuTzFqFLnJKa8FYSZEIZhPmZmIa13\n+cAwvUsbK8lfr0mqrmeAYGLnV9S7X6uhpw7fDpDdHkBpvUy5EKP2nOTekQKBgQCW\nNdC0v80UQ4qNg47g4boQIJHuB762WrDfzwnM0YM6hjxuiYW5F9sZA5F45aP+ZFmW\nUoPdETMrnAZshJZQ6JHuQWR0ksoot/sDSP6aP+8DHS3DU5QW2xqCVV0miltQjkJl\nIvfVT2rfv2JNs1GqKh38jaD9yLPREm6QTjIok9gFKQKBgHeTKgRHyEMyAv8glRDV\nDppJwaEpC/aHxmWf0Tnm6smtS/bOTjmeuPMkoCAcuDnLNb66ySUnyun3714rjqCT\n3CYT/KgXnViN0nwRjN2WEkTBi51uBOgLsHGqVtKitxJNE33t1rAYj7SqKz2lBIVZ\nEsFGrQsvC6HF5DbCKe4kb99/\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ukg9s@rexsoft-crm.iam.gserviceaccount.com",
+  "client_id": "104692818788956524970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ukg9s%40rexsoft-crm.iam.gserviceaccount.com"
+}

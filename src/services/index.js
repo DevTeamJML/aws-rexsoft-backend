@@ -1,0 +1,14 @@
+// module.exports.authfirebaseService = require('./firebase/authFirebase.service');
+module.exports.usersService = require('./users.services');
+module.exports.companiesService = require('./company.service');
+module.exports.companyUserService = require('./company_user.service');
+module.exports.invitationService = require('./invitation.service');
+module.exports.clientGroupService = require('./client_group.service');
+module.exports.clientService = require('./client.service');
+module.exports.formService = require('./form.service');
+module.exports.graphService = require('./graph.service');
+module.exports.roleService = require('./role.service');
+module.exports.appointmentService = require('./appointment.service');
+module.exports.kpiService = require('./kpi.service');
+module.exports.dashboardService = require('./dashboard.service');
+module.exports.leaderService = require('./leader.service');

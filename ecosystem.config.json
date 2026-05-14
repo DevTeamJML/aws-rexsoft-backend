@@ -1,0 +1,35 @@
+{
+  "apps": [
+    {
+      "name": "app",
+      "script": "src/index.js",
+      "instances": 2,
+      "autorestart": true,
+      "watch": false,
+      "time": true,
+      "exec_mode": "cluster",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": "8081",
+        "LOCAL_IP": "0.0.0.0",
+
+        "API_KEY": "AIzaSyDJF65OL3Pk3mwU9zpwCF38HbjSlIOWxvk",
+        "AUTH_DOMAIN": "rexsoft-crm.firebaseapp.com",
+        "STORAGE_BUCKET": "rexsoft-crm.appspot.com",
+        "MESSAGING_SENDER_ID": "382834266814",
+        "APP_ID": "1:382834266814:web:e27a033875adab0b4f04ef",
+        "MEASUREMENT_ID": "G-8PGD845Q8G",
+        "FIREBASE_DATABASE_URL": "https://rexsoft-crm-default-rtdb.asia-southeast1.firebasedatabase.app",
+
+        "DB_HOST": "127.0.0.1",
+        "DB_USER": "adminuser",
+        "DB_PASSWORD": "StrongPassword123!",
+        "DB_NAME": "new_crm_database",
+        "DB_DIALECT": "mysql",
+        "DB_MAX_POOL": 5,
+        "DB_MIN_POOL": 0,
+        "DB_IDLE": 10000
+      }
+    }
+  ]
+}
