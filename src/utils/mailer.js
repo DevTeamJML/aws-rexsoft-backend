@@ -121,7 +121,7 @@ exports.sendInvitationMail = ({
         inviterName,
         email,
         companyName: company_name,
-        url: `https://rexsoft.info/invitation?invitation_id=${invitation_id}&role_id=${role_id}`,
+        url: `https://dupli.rexsoft.info/invitation?invitation_id=${invitation_id}&role_id=${role_id}`,
       };
       const htmlToSend = template(replacements);
 
