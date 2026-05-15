@@ -20,7 +20,7 @@
         "APP_ID": "1:382834266814:web:e27a033875adab0b4f04ef",
         "MEASUREMENT_ID": "G-8PGD845Q8G",
         "FIREBASE_DATABASE_URL": "https://rexsoft-crm-default-rtdb.asia-southeast1.firebasedatabase.app",
-        "GOOGLE_APPLICATION_CREDENTIALS": "/root/new_service_key.json",
+        "GOOGLE_APPLICATION_CREDENTIALS": "/var/www/secrets/new_service_key.json",
 
         "DB_HOST": "127.0.0.1",
         "DB_USER": "adminuser",
